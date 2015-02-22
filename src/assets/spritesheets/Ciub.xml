@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5f452915001159ee60b08e43ca62a343:631c2aa9cc0319e6d7d317f74c516895:c48f395befc6a9de3113f3f68c05ab3a$ -->
+<TextureAtlas imagePath="Ciub.png">
+    <SubTexture name="BigTree" x="941" y="2" width="450" height="311"/>
+    <SubTexture name="Bush" x="211" y="2" width="80" height="100"/>
+    <SubTexture name="CiubDead" x="34" y="2" width="57" height="49"/>
+    <SubTexture name="CiubFart" x="93" y="2" width="57" height="49"/>
+    <SubTexture name="CiubSmile" x="152" y="2" width="57" height="50"/>
+    <SubTexture name="Clowd1" x="904" y="643" width="936" height="392"/>
+    <SubTexture name="Eye" x="2" y="2" width="30" height="26"/>
+    <SubTexture name="Hair" x="293" y="2" width="60" height="113"/>
+    <SubTexture name="Hills1" x="2" y="643" width="900" height="377"/>
+    <SubTexture name="Hills2" x="904" y="315" width="900" height="326"/>
+    <SubTexture name="Rock" x="1842" y="643" width="150" height="500"/>
+    <SubTexture name="Sky" x="2" y="315" width="900" height="315"/>
+    <SubTexture name="SmallTree" x="539" y="2" width="400" height="227"/>
+    <SubTexture name="Sun" x="355" y="2" width="182" height="203"/>
+</TextureAtlas>
